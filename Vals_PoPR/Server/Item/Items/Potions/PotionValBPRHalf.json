@@ -1,7 +1,9 @@
 {
+  "$Comment": "To people looking at this for help - Try reloading the world if your edit doesn't do anything. Hotswapping doesn't work all the time...",
   "Parent": "ValsPotion_Template",
   "TranslationProperties": {
-    "Name": "Potion of Half-Scale"
+    "Name": "Vals Potion of Half Scale",
+	"Description": "Makes you half the size of a normal human"
   },
   "Icon": "Icons/ItemsGenerated/Potion_Purify.png",
   "Recipe": {
@@ -30,6 +32,7 @@
         ]
       }
     ],
+    "RequiredMemoriesLevel": 4
   },
   "Interactions": {
     "Primary": "Block_Primary",
@@ -93,5 +96,5 @@
   },
   "MaxStack": 10,
   "ItemLevel": 50,
-  "DropOnDeath": false
+  "DropOnDeath": true
 }

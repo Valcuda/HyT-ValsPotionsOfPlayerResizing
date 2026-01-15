@@ -1,0 +1,7 @@
+{
+  "$Comment": "Why the heck do I need a file, to point to a file, to point to a file???",
+  "RequireNewClick": true,
+  "Interactions": [
+    "Condition_Consume_Potion_ValResize"
+  ]
+}

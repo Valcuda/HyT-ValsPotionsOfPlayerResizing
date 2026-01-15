@@ -1,14 +1,7 @@
 {
-  "StatusEffectIcon": "Icons/ItemsGenerated/Potion_Purify.png",
-  "OverlapBehavior": "Overwrite",
-  "Duration": 60,
-  "ModelChange": "P0_5x",
-  "ApplicationEffects": {
-    "Particles": [
-      {
-        "SystemId": "Potion_Morph_Burst"
-      }
-    ],
-    "WorldSoundEventId": "SFX_Frog_Croak"
-  }
+  "$Comment": "Makes the player half usual size, and adjusts their stats accordingly",
+  "StatModifiers": {
+    "Stamina": 5
+  },
+  "Infinite": true
 }
