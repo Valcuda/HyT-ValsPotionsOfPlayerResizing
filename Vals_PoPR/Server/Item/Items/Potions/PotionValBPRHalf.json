@@ -1,8 +1,7 @@
 {
-  "Parent": "Potion_Template",
+  "Parent": "ValsPotion_Template",
   "TranslationProperties": {
-    "Name": "Potion of Half-Scale",
-	"Description": "Makes you half the height of a normal human."
+    "Name": "Potion of Half-Scale"
   },
   "Icon": "Icons/ItemsGenerated/Potion_Purify.png",
   "Recipe": {
@@ -34,7 +33,7 @@
   },
   "Interactions": {
     "Primary": "Block_Primary",
-    "Secondary": "Root_Secondary_Consume_Potion_Morph"
+    "Secondary": "Root_Secondary_Consume_Potion_ValResize"
   },
   "InteractionVars": {
     "RemoveEffect": {
