@@ -1,0 +1,18 @@
+{
+  "Group": "Valcuda",
+  "Name": "Valcuda's Potions of Player Resizing",
+  "Version": "0.1",
+  "Description": "Grow to 1.5x and 2x scale, or Shrink to 0.5x and 0.25x scale!",
+  "Authors": [
+    {
+      "Name": "Valcuda",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "website",
+  "ServerVersion": ">=1.0.0",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}
