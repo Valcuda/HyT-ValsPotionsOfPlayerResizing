@@ -1,7 +1,14 @@
 {
-  "$Comment": "Makes the player half usual size, and adjusts their stats accordingly",
-  "StatModifiers": {
-    "Stamina": 5
-  },
-  "Infinite": true
+  "StatusEffectIcon": "Icons/ItemsGenerated/Potion_Purify.png",
+  "OverlapBehavior": "Overwrite",
+  "Duration": 30,
+  "ModelChange": "ValPoPR_Halfling",
+  "ApplicationEffects": {
+    "Particles": [
+      {
+        "SystemId": "Potion_Morph_Burst"
+      }
+    ],
+    "WorldSoundEventId": "SFX_Frog_Croak"
+  }
 }

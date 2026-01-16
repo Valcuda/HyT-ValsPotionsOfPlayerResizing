@@ -1,5 +1,5 @@
 {
-  "$Comment": "To people looking at this for help - Try reloading the world if your edit doesn't do anything. Hotswapping doesn't work all the time...",
+  "$Comment": "To people looking at this for help - Try reloading the world if your edit doesn't do anything. Hotswapping didn't work 90% the time...  - Also, the ValsPotion_Template is there, because this literally doesn't work without it! I also can't add a comment to it, else it'll break.",
   "Parent": "ValsPotion_Template",
   "TranslationProperties": {
     "Name": "Vals Potion of Half Scale",
