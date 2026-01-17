@@ -1,9 +1,8 @@
 {
-  "$Comment": "To people looking at this for help - Try reloading the world if your edit doesn't do anything. Hotswapping didn't work 90% the time...  - Also, the ValsPotion_Template is there, because this literally doesn't work without it! I also can't add a comment to it, else it'll break.",
   "Parent": "ValsPotion_Template",
   "TranslationProperties": {
-    "Name": "Potion of Half Scale",
-	"Description": "Makes you half the size of a normal human"
+    "Name": "Potion of Quarter Scale",
+	"Description": "Makes you 1/4th the size of a normal human"
   },
   "Icon": "Icons/ItemsGenerated/Potion_Purify.png",
   "Recipe": {
@@ -45,7 +44,7 @@
       "Interactions": [
         {
           "Type": "ApplyEffect",
-          "EffectId": "Potion_ValBPR_Half"
+          "EffectId": "Potion_ValBPR_Quart"
         }
       ]
     },
