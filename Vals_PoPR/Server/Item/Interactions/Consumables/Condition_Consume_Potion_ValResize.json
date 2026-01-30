@@ -6,7 +6,9 @@
     "Type": "EffectCondition",
     "EntityEffectIds": [
       "Potion_ValBPR_Half",
-	  "Potion_ValBPR_Quart"
+	  "Potion_ValBPR_Quart",
+	  "Potion_ValBPR_HalfGiant",
+	  "Potion_ValBPR_Giant"
     ],
     "Match": "None",
     "Next": "Consume_Charge_Potion_Fast"
