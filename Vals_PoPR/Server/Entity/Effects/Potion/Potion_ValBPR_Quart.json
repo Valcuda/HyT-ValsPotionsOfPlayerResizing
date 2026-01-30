@@ -1,7 +1,7 @@
 {
   "StatusEffectIcon": "Icons/ItemsGenerated/Potion_Purify.png",
   "OverlapBehavior": "Overwrite",
-  "Duration": 30,
+  "Infinite": true,
   "ModelChange": "ValPoPR_Quart",
   "ApplicationEffects": {
     "Particles": [
